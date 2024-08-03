@@ -1,0 +1,6 @@
+﻿  SteerDebug.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\Musti\source\repos\SteerDebug\SteerDebug\SteerDebug.cpp(55): error C4700: uninitialized local variable 'prevJoyInfo' used
+LINK : fatal error LNK1257: code generation failed
